@@ -45,6 +45,6 @@ Achieved strong performance in image classification with options to improve usin
 ---
 
 ## 👤 Author:
-Sravya – Data Science and Machine Learning Enthusiast
+Sravya togarla – Data Science and Machine Learning Enthusiast
 
 Feel free to ⭐ the repo or fork for improvements!
