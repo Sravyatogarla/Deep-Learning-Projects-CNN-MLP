@@ -9,6 +9,12 @@ This repository contains two deep learning projects built using TensorFlow and K
 ### 📌 Problem Statement:
 Build a CNN model to classify images of flowers into five categories: daisy, dandelion, roses, sunflowers, and tulips.
 
+ ⚠️ Note:
+> This notebook uses a local folder called `flower_photos` which contains the flower dataset.
+> Please download it from:
+> https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz
+> and extract the folder next to the `.ipynb` file.
+
 ### ✅ Key Features:
 - Data downloaded from TensorFlow dataset repo
 - CNN with convolutional + max pooling layers
